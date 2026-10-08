@@ -1,2 +1,3 @@
-# stashly-app
-A food &amp; pantry tracker web application
+![stashly app](/Stashly.jpg)
+# Stashly App
+***Data-driven pantry tracking and planning***
